@@ -1,0 +1,21 @@
+/**/
+
+.display{
+  margin-top: 20px;
+  height: 80px;
+  font-size: 50px;
+}
+
+.linha{
+  margin-top: 10px;
+}
+
+.linha button{
+  font-size: 30px;
+}
+body{
+  background:black;
+}
+btn btn-danger btn-block botaao{
+background: blue;
+}
